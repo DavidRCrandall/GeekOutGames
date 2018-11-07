@@ -1,0 +1,8 @@
+Logo Light Blue
+00ADEF
+
+Logo Dark Blue
+1D4368
+
+Logo Light Reflect Blue
+99DFF9
